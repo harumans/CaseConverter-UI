@@ -1,7 +1,12 @@
 # CaseConverter-UI
 Case converter Ui application made in flutter framework
 ---
-To try the app you can clone the project and go to installers and install it or just install it from Releases.
+To try the app you can clone the project and go to installers and install it or just install it from here : 
+
+
+https://github.com/harumans/CaseConverter-UI/releases/download/v1.0/Converter.exe 
+
+
 ---
 I made this application to edit my text form, the application have three main functions:
 
