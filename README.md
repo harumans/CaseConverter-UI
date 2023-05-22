@@ -21,4 +21,4 @@ In case you want to edit the source code make a flutter project and replace your
 
 
 ---
-In the future i will make the ui batter and probably add more functions. I hope u like it.
+In the future i will make the ui batter and probably add more features. I hope u like it.
